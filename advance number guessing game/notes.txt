@@ -1,0 +1,8 @@
+ Python guessing game
+
+The goal is to build a guessing game with python that can do most of the basic things a game of its kind consist of
+
+1. greet users 
+2 have limited range 
+3. keep records of highest scores 
+4. wont quit after typos 
