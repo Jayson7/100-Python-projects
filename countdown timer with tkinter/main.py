@@ -7,7 +7,7 @@ from threading import Thread
 class CountdownTimer(tk.Tk):
     def __init__(self):
         super().__init__()
-        self.title("Advanced Countdown Timer")
+        self.title("Jayson Advanced Countdown Timer")
         self.geometry("400x300")
         self.resizable(False, False)
 
